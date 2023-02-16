@@ -1,0 +1,151 @@
+.backgroundcontainer{
+    height: 834px;
+    width: 1442px;
+    background-color: RGBA(246, 238, 223, 1);
+}
+.hcontainer{
+    font-size: 60px;
+    color: #F64B3C;
+    margin-top: -750px;
+    margin-left: 417px;
+}
+
+.pcontainer{
+    font-size: 30px;
+    color: #F64B3C;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+.colorcontainer{
+    height: 799px;
+    width: 1442ox;
+}
+.tcontainer{
+    height: 116px;
+    width: 717px;
+    color: white;
+    font-size: 35px;
+    margin-top: -500px;
+    position: absolute;
+    margin-left: 400px;
+}
+.htagcontainer{
+    color: #FFFFFF;
+    margin-top: -300px;
+    position: absolute;
+}
+.seclastcontainer{
+    height: 801px;
+    width: 1442px;
+    background-color: RGBA(246, 238, 223, 1);
+}
+.dcontainer{
+    color: #F64B3C;
+    font-size: 60px;
+    height: 68px;
+    width: 882px;
+    margin-top: -500px;
+    margin-left: 330px;
+    letter-spacing: 5px;
+}
+.inputcontainer{
+    margin-left: 370px;
+    margin-top: 50px;
+    height: 65px;
+    width: 555px;
+    border-radius: 50px;
+}
+.seclastpcontainer{
+    height: 58px;
+    width: 726px;
+    color: #F64B3C;
+    font-size: 30px;
+    margin-left: 330px;
+    margin-top: 80px;
+}
+.lastcontainer{
+    height: 774px;
+    width: 1442px;
+    background-color: RGBA(34, 34, 34, 1);
+}
+.fimgcontainer{
+    margin-top: 290px;
+    margin-left: 50px;
+}
+.s1container{
+    height: 448px;
+    width: 339px;
+    background-color: RGBA(255, 255, 255, 1);
+    margin-top: -600px;
+    margin-left: 136px;
+    padding-bottom: 100px;
+}
+.hs1container{
+    color: #F64B3C;
+    margin-top: 100px;
+}
+.fpcontainer{
+    height: 798px;
+    width: 1451px;
+    background-color: RGBA(246, 238, 223, 1);
+}
+.fpimgcontainer{
+
+    height: 656px;
+    width: 1431px;
+    margin-top: 100px;
+    
+}
+.fphcontainer{
+    color: #F64B3C;
+    margin-top: -670px;
+    margin-left: 500px;
+    font-size: 60px;
+}
+.fppcontainer{
+    color: #F64B3C;
+    height: 50px;
+    width: 742px;
+    font-size: xx-large;
+    margin-left: 300px;
+}
+.fpsimgcontainer{
+    height: 254px;
+    width: 245px;
+    margin-left: 150px;
+    margin-top: 120px;
+}
+.fph2container{
+    color: #F64B3C;
+    margin-left: 180px;
+    margin-top: 50px;
+    
+}
+.fps2container{
+    margin-left: 600px;
+    margin-top: -370px;
+    position: absolute;
+
+}
+.fph3container{
+    color: #F64B3C;
+    margin-left: 650px;
+    position: absolute;
+    margin-top: -70PX;
+}
+.fp3imgcontainer{
+    position: absolute;
+    height: 343px;
+    width: 297px;
+    margin-left: 1000px;
+    margin-top: -350px;
+}
+.htag5container{
+    color: #FFFFFF;
+    font-size:60px;
+    margin-left: 530px;
+}
+.bgfcontainer{
+    height: 799px;
+    width: 1446px;
+}
